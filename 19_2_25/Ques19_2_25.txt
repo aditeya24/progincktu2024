@@ -16,5 +16,6 @@
 12. Write a program to get the sum of first 10 odd integers.(start=11:07,stop=11:11)
 13. Write a program to print the multiplication table of a numbers from 5 to 15.(start=11:11,stop=11:19)
 14. Write a program to print all the Krishnamurthy numbers in a given range.(start=11:11,stop=11:19)
-15. Write a program to print all the Amstrong numbers in a given range.
+15. Write a program to print all the Amstrong numbers in a given range.(st
+art=5/3/25 10:09,end=5/3/25 10:18)
 16. Write a program to print the sum of digits of all numbers between 100 and 400.(start=11:19,stop=11:29)
